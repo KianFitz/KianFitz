@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games!
 - 🌱 I’m currently looking to learn Assembly + Hardware.
 - 💞️ I’m looking to collaborate on any project related to games, game servers, or emulation!
-- 📫 How to reach me: Discord: Nellag#2582 Twitter: @ImNellag
+- 📫 How to reach me: Discord: Nellag
 Skills mostly in C# and C++ but am willing to learn other languages!
 
 
